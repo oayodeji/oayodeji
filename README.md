@@ -41,12 +41,6 @@
 </a>
 </div>
 
-
-## 3. Contributors Badge
-![Your Repository's Stats](https://contrib.rocks/image?repo=oayodeji/Python)
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/oayodeji/Python)
-
 <!---
 oayodeji/oayodeji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
