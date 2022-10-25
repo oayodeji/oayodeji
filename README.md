@@ -26,7 +26,7 @@
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
 
 ## 🎧Now Playing :    
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31bjfqzsttrakcmaikpdqg3m3vsi)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/playlist/3JRCEBYZpLNZyMfhI5WhMi)
 
 ## 📈 Github Stats:
 <!--
