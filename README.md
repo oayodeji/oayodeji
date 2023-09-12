@@ -1,7 +1,5 @@
 ## Hey there 👋 
-<a href="https://www.linkedin.com/in/oayodeji/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href="https://www.linkedin.com/in/oayodeji/"><img src="https://img.shields.io/badge/-Olawale%20Ayodeji-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=oayodeji.oayodeji)
 
@@ -9,7 +7,7 @@
 
 - 🔭 I’m currently rounding up my actuarial qualification.
 - 💼 I create demos on huggingface. 
-- 👀 I’m interested in computer vision, natural language processing, machine learning.
+- 👀 I’m interested in quantitative analytics, computer vision, natural language processing, machine learning.
 - 🌱 I’m currently learning DL algorithms, transformers, multimodal learning explainability.  
 - 💞️ I’m looking to collaborate on AI projects around computer vision, NLP and any machine learning.
 - 💬 I am happy to talk about anything.
